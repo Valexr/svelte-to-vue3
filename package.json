@@ -1,0 +1,20 @@
+{
+  "name": "svelte-to-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.27"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
+    "vite": "^2.7.13",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.34",
+    "svelte-spectre": "github:valexr/svelte-spectre",
+    "svelte-adapter": "0.5.0",
+    "svelte": "^3.46.2"
+  }
+}
